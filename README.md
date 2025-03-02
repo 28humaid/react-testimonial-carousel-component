@@ -29,5 +29,5 @@ Perfect for showcasing **customer reviews, testimonials, or feedback** in a **re
    
    export default App;
    ```
-##📜 License
+## 📜 License
 Feel free to use and modify this component as needed. 😊
