@@ -29,5 +29,11 @@ Perfect for showcasing **customer reviews, testimonials, or feedback** in a **re
    
    export default App;
    ```
+## 🔗 Related Topics
+
+- [Material-UI](https://mui.com/)
+- [Swiper.js](https://swiperjs.com/)
+- [React Components](https://react.dev/)
+
 ## 📜 License
 Feel free to use and modify this component as needed. 😊
